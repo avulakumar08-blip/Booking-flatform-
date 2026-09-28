@@ -1,0 +1,6 @@
+{
+  "name": "Booking Platform - Movies, Trains & Buses",
+  "description": "Comprehensive entertainment and travel ticket booking platform for Movies, Trains, and Buses with interactive seat maps, secure checkout, and instant e-ticket window management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
